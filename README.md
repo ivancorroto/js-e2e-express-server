@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/telefonicasa/TSA/_apis/build/status%2Fivancorroto.js-e2e-express-server?branchName=main)](https://dev.azure.com/telefonicasa/TSA/_build/latest?definitionId=13&branchName=main)
 ---
 page_type: sample
 languages:
